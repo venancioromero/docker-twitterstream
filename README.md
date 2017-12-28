@@ -1,6 +1,6 @@
 # docker-twitterstream
 
-You need an account of twitter and create an application on https://apps.twitter.com/
+You need a twitter account and create an application on https://apps.twitter.com/
 
 Fields required:
  - DOWNLOAD_TIME (in seconds) <-- time that application will be running

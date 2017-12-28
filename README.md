@@ -3,7 +3,7 @@
 You need an account of twitter and create an application on https://apps.twitter.com/
 
 Fields required:
- - DOWNLOAD_TIME (in seconds)
+ - DOWNLOAD_TIME (in seconds) <-- time the application will be running
  - ACCESS_TOKEN_KEY
  - ACCESS_TOKEN_SECRET 
  - CONSUMER_KEY
